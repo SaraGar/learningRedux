@@ -1,0 +1,1 @@
+# Built following 'Building Applications with React and Redux' couse by Cory House: https://app.pluralsight.com/library/courses/react-redux-react-router-es6/
